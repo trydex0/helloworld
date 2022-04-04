@@ -1,0 +1,11 @@
+body {
+    background-color: #efefef;
+    font-family: 'Segoe UI', Tahoma;
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+.title {
+    font-size: 35px;
+    color: #1e59a3;
+}
